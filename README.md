@@ -10,7 +10,7 @@
 
 ## Description
 
-A simple Arduino robot developed at the 2024 UTRA Hacks hackathon on January 21, 2024 that travels in zig-zags, stops and turns on a red LED when an infared sensor is obstructed, performs a scooping motion with a strainer to pick up garbage, then resumes zig-zag movement and turns off the red LED when the sensor stops being obstructed. 
+A simple Arduino robot developed at UTRA Hacks on January 21, 2024 for the purpose of cleaning up garbage on sandy beaches. It travels in zig-zags, stops and turns on a red LED when an infared sensor is obstructed, performs a scooping motion with a strainer, then resumes zig-zag movement and turns off the red LED when the sensor stops being obstructed. 
 
 <div  align=center>
 	<img src="https://github.com/macaroonforu/Savvy-Scooper/assets/121368271/7748728d-d37c-4e32-9c0c-401a647a78d8">
